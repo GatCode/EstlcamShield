@@ -1,0 +1,7 @@
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db

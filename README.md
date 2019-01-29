@@ -10,6 +10,7 @@ The EstlcamShield is a **free** and **open source** PCB design which provides fu
 - 3x DRV8825 Stepper Driver Board
 - 3x 35V 100uF Capacitor (Through Hole)
 - 1x KF301-2P Terminal Block (or simmilar)
+- 0-9x jumper cap for microstepping
 - long female pin headers 2.54mm (I used 8 pin ones)
 - regular male pin headers 2.54mm
 

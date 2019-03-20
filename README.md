@@ -1,6 +1,6 @@
 # EstlcamShield
 <p align="center">
-  <img width="600" src="/images/Front.jpg">
+  <img width="600" src="/images/Main.jpg">
 </p>
 
 [![gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/EstlcamShield/community)
